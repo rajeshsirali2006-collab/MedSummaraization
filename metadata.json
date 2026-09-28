@@ -1,0 +1,6 @@
+{
+  "name": "MedSummarize SaaS",
+  "description": "HIPAA-compliant generative AI platform for clinical consultation transcription, multi-stakeholder medical record summarization with verifiable citations, wearable telemetry, encrypted messaging, and emergency dispatch.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
